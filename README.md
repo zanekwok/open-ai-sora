@@ -1,9 +1,16 @@
+<!--
+ * @Author: Zane
+ * @Date: 2024-02-16 14:07:38
+ * @Description: 
+ * @LastEditors: Zane zanekwok73@gmail.com
+ * @LastEditTime: 2024-02-16 22:24:37
+-->
 
 # Open AI Sora
 
 Introducing SORA, a cutting-edge AI model developed by OpenAI that brings text-to-video generation to a whole new level. SORA can transform simple text instructions into stunning, lifelike videos, allowing users to visualize their ideas with remarkable accuracy.
 
-* OpenAISora: https://openai.com/sora
+* OpenAISora: https://openaisora.top
 
 ## What Can SORA Do?
 
